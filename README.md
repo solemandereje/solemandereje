@@ -11,6 +11,9 @@ You can click the Preview link to take a look at your changes.
 ## Skills 
  - Python
  - Java
+ - javascript
+ - C#
+   
  
  ## reach me
  - LinkedIn
